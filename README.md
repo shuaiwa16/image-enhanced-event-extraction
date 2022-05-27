@@ -5,7 +5,7 @@ For event extration, we propose a novel Dual Recurrent Multimodal Model, DRMM, t
 
 Our academic paper which describes DRMM in detail can be found here: https://tongmeihan1995.github.io/meihan.github.io/research/AAAI2020.pdf.
 
-### Quick Start
+# Quick Start
 
 1. Get ace2005 English dataset and transform it to BIO format in EEdata directory, named train.txt, dev.txt and test.txt, and sentences are splitted by an empty line.
 
